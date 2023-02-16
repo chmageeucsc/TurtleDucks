@@ -1,4 +1,5 @@
 # TurtleDucks
+(Created by: Chantel Gee and Sam Tancio)
 
 This is a recreation of the classic game, Snake.
 
@@ -6,8 +7,8 @@ The role of the player is to control a mother turtle duck and save her baby duck
 
 ### How to Access Turtle Ducks
 
-In order to access this game, please download the TurtleDucksG70.c3p file.
+In order to access this game, please download the TurtleDucks_G70.c3p file.
 
-Then go to https://www.construct.net/en, log in, and upload the TurtleDucksG70.c3p file.
+Then go to https://www.construct.net/en, log in, and upload the TurtleDucks_G70.c3p file.
 
 When you run the program, you should be able to play Turtle Ducks.
